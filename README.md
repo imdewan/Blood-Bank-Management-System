@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is my first project in python.
+This a project made with python.
 It uses Tkinter module for front-end and MySQL-connector for back-end development.
 
 Also uses json to store database login details and os for validating if file exists.
